@@ -1,1 +1,1 @@
-# ducksveryawes.github.io
+# duck-website
